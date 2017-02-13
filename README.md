@@ -2,5 +2,5 @@
 
 #Projects till now
 1. Colour detection
-2. Counting fingers
+2. Hand Gesture Recognition(Counting fingers)
 
