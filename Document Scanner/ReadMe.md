@@ -13,8 +13,8 @@ I found this project on [pyimagesearch](http://www.pyimagesearch.com/2014/09/01/
 
 ### Original Image
 
-https://cloud.githubusercontent.com/assets/15849927/23341170/6725dc8a-fc68-11e6-8f45-c5b7fc782c86.JPG
+![1](https://cloud.githubusercontent.com/assets/15849927/23341170/6725dc8a-fc68-11e6-8f45-c5b7fc782c86.JPG)
 
 ### Scanned Image
 
-https://cloud.githubusercontent.com/assets/15849927/23341173/8885fb80-fc68-11e6-9cbf-47064a80a7ed.JPG
+![2](https://cloud.githubusercontent.com/assets/15849927/23341173/8885fb80-fc68-11e6-9cbf-47064a80a7ed.JPG)
