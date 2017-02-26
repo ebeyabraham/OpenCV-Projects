@@ -1,5 +1,5 @@
 # Document Scanner
-I found this project on [pyimagesearch](http://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/?__s=qfesvtpzzekgnpu4vorc) and tried to do it on my own. I could only manage so far. Help to make this better is welcome. :)
+I found this project on [pyimagesearch](http://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/?__s=qfesvtpzzekgnpu4vorc) and tried to do it on my own. I could only manage so far. Any help to make this better would be welcome. :)
 
 ## Requirements
 * Python 2.x
