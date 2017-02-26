@@ -17,4 +17,4 @@ https://cloud.githubusercontent.com/assets/15849927/23341170/6725dc8a-fc68-11e6-
 
 ### Scanned Image
 
-(https://cloud.githubusercontent.com/assets/15849927/23341173/8885fb80-fc68-11e6-9cbf-47064a80a7ed.JPG
+https://cloud.githubusercontent.com/assets/15849927/23341173/8885fb80-fc68-11e6-9cbf-47064a80a7ed.JPG
