@@ -6,7 +6,7 @@ This is a collection of basic OpenCv projects I made. All the codes are written 
 ## About OpenCV
 [OpenCV](https://en.wikipedia.org/wiki/OpenCV) (Open Source Computer Vision) is a library of programming functions mainly aimed at real-time computer vision. Originally      developed by Intel's research center in Nizhny Novgorod (Russia), it was later supported by Willow Garage and is now maintained by Itseez.The library is cross-platform and free for use under the open-source BSD license.
 
-## Installing openCV on Linux
+## Installing OpenCV on Linux
 
 ```
    bash install-opencv.sh
@@ -24,4 +24,5 @@ This is a collection of basic OpenCv projects I made. All the codes are written 
 3. [Document Scanner](https://github.com/Poirot1729/Open-CV/tree/master/Document%20Scanner)
    
    A document scanner which isolates a document in an image and gives it a scanned effect
+
    
