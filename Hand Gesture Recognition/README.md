@@ -1,7 +1,7 @@
-#Simple Gesture Recognition Using OpenCV|Python
+# Simple Gesture Recognition Using OpenCV|Python
 ## Counts the number of fingers
 
-###Algorithm Used
+### Algorithm Used
   1. Crop image of hand in ROI
   2. Isolate hand from noise in the image by finding largest area
   3. Find the convexivity defects
